@@ -1,0 +1,91 @@
+﻿state,latitude,longitude,stars,open,alcohol,noiseLevel,attire,priceRange,delivery,ambience,parking,dietaryRestrictions,waiterService,smoking,caters,recommendedFor,goodForGroups,goodForKids,outdoorSeating
+AZ,1,1,2.5,FALSE,none,very_loud,casual,1,TRUE,[],['lot'],,TRUE,yes,TRUE,['latenight'],TRUE,FALSE,TRUE
+IL,2,2,2,FALSE,full_bar,loud,casual,1,TRUE,['casual'],[],,TRUE,outdoor,,['latenight'],TRUE,,TRUE
+EDH,5,5,4.5,TRUE,full_bar,quiet,casual,3,FALSE,[],[],['vegan'],TRUE,,,['dessert'],TRUE,,FALSE
+EDH,5,5,3.5,TRUE,full_bar,quiet,casual,2,TRUE,[],[],[],TRUE,,,[],TRUE,,FALSE
+NV,1,1,3,TRUE,full_bar,loud,casual,2,FALSE,[],['garage'],,TRUE,,FALSE,"['lunch', 'breakfast']",TRUE,FALSE,FALSE
+NC,1,2,4,TRUE,full_bar,,casual,2,FALSE,[],[],,TRUE,no,,[],TRUE,,FALSE
+PA,2,2,3.5,TRUE,full_bar,average,casual,1,,[],[],,FALSE,yes,,[],TRUE,,FALSE
+IL,2,2,3.5,TRUE,none,average,casual,1,FALSE,[],['lot'],,TRUE,,FALSE,['lunch'],TRUE,TRUE,FALSE
+NC,1,2,4.5,TRUE,beer_and_wine,average,casual,1,FALSE,['divey'],['lot'],,TRUE,,TRUE,"['lunch', 'dinner']",TRUE,,FALSE
+WI,3,2,3.5,FALSE,full_bar,average,casual,2,FALSE,['trendy'],"['garage', 'street']",,TRUE,,TRUE,"['lunch', 'dinner']",TRUE,,TRUE
+QC,3,2,3.5,TRUE,beer_and_wine,average,casual,2,FALSE,[],[],,FALSE,,FALSE,[],TRUE,,FALSE
+NC,1,2,2.5,TRUE,none,average,casual,1,FALSE,[],[],,TRUE,,FALSE,[],TRUE,,FALSE
+AZ,1,1,4,FALSE,full_bar,quiet,casual,1,FALSE,[],['lot'],,FALSE,,FALSE,"['lunch', 'breakfast']",TRUE,TRUE,TRUE
+NV,1,1,1,TRUE,none,quiet,casual,2,TRUE,[],['street'],,FALSE,,TRUE,[],TRUE,,FALSE
+QC,3,2,3.5,FALSE,none,average,casual,1,FALSE,['casual'],['street'],,FALSE,,FALSE,"['lunch', 'dinner']",TRUE,,FALSE
+IL,2,2,3.5,TRUE,none,quiet,casual,1,FALSE,[],[],,FALSE,,TRUE,"['lunch', 'dinner']",FALSE,,FALSE
+IL,2,2,3.5,FALSE,none,loud,casual,1,TRUE,[],['street'],,TRUE,,TRUE,"['lunch', 'dinner']",TRUE,,FALSE
+IL,2,2,3.5,TRUE,none,quiet,casual,1,TRUE,[],['lot'],,FALSE,,TRUE,[],TRUE,,FALSE
+IL,2,2,3.5,TRUE,none,average,casual,1,FALSE,"['divey', 'casual']",['lot'],,TRUE,,FALSE,"['lunch', 'dinner']",TRUE,,FALSE
+AZ,1,1,4,TRUE,none,average,casual,1,FALSE,['casual'],['lot'],,FALSE,,TRUE,"['lunch', 'dinner']",TRUE,,FALSE
+AZ,1,1,2,TRUE,none,quiet,casual,2,TRUE,[],['lot'],,FALSE,,,[],FALSE,,TRUE
+ON,3,2,3.5,TRUE,beer_and_wine,average,casual,2,FALSE,[],[],,TRUE,,FALSE,[],TRUE,,TRUE
+PA,2,2,3.5,TRUE,none,average,casual,1,TRUE,['divey'],[],,FALSE,,FALSE,[],TRUE,,FALSE
+PA,2,2,4.5,TRUE,none,,casual,1,TRUE,[],['lot'],,FALSE,,TRUE,[],TRUE,,TRUE
+IL,2,2,3.5,TRUE,none,average,casual,1,FALSE,[],[],,,,,[],TRUE,,FALSE
+AZ,1,1,3.5,TRUE,none,average,casual,2,TRUE,[],[],,FALSE,,TRUE,[],TRUE,,FALSE
+PA,2,2,2.5,TRUE,none,loud,casual,1,TRUE,[],['street'],,TRUE,,,"['lunch', 'dinner']",FALSE,,FALSE
+NC,1,2,4,FALSE,full_bar,quiet,casual,1,FALSE,,[],,TRUE,,FALSE,[],TRUE,,TRUE
+QC,3,2,3,TRUE,full_bar,average,casual,2,TRUE,[],[],,FALSE,yes,,[],TRUE,,FALSE
+AZ,1,1,4.5,FALSE,beer_and_wine,average,casual,1,FALSE,[],['lot'],,FALSE,,FALSE,['lunch'],TRUE,,TRUE
+ON,3,2,4,TRUE,none,,casual,1,TRUE,[],[],,FALSE,,TRUE,[],FALSE,,FALSE
+PA,2,2,3.5,TRUE,none,quiet,casual,1,FALSE,[],[],,FALSE,,,[],TRUE,,FALSE
+QC,3,2,3.5,TRUE,full_bar,average,dressy,3,FALSE,[],[],,FALSE,,FALSE,[],TRUE,,FALSE
+NC,1,2,3.5,FALSE,beer_and_wine,average,casual,2,TRUE,[],[],,,,,[],TRUE,,TRUE
+BW,4,5,2.5,TRUE,full_bar,,casual,2,,[],"['street', 'lot']",,FALSE,yes,,,TRUE,TRUE,FALSE
+AZ,1,1,4,TRUE,none,average,casual,1,FALSE,[],[],,FALSE,,,[],TRUE,,FALSE
+NC,1,2,5,TRUE,none,average,casual,1,TRUE,[],[],,FALSE,,FALSE,[],TRUE,,FALSE
+ON,3,2,3.5,TRUE,none,quiet,casual,2,TRUE,[],['street'],,TRUE,,,['lunch'],TRUE,,FALSE
+NV,1,1,4,FALSE,none,quiet,casual,2,TRUE,[],[],,FALSE,,FALSE,['dinner'],TRUE,,FALSE
+AZ,1,1,3,TRUE,none,loud,casual,1,TRUE,[],[],,TRUE,,FALSE,[],TRUE,,FALSE
+WI,3,2,4,TRUE,full_bar,average,casual,2,FALSE,['casual'],['lot'],,TRUE,,FALSE,[],TRUE,,FALSE
+QC,3,2,4.5,TRUE,full_bar,quiet,casual,2,TRUE,['casual'],[],,FALSE,,TRUE,[],TRUE,,FALSE
+NC,1,2,4,TRUE,none,average,casual,1,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+QC,3,2,3,TRUE,full_bar,quiet,casual,2,TRUE,[],['street'],,TRUE,,TRUE,[],,,FALSE
+AZ,1,1,3.5,TRUE,beer_and_wine,quiet,casual,2,TRUE,[],[],,FALSE,,TRUE,[],TRUE,,FALSE
+AZ,1,1,3.5,TRUE,none,average,casual,2,FALSE,['casual'],[],,TRUE,,TRUE,[],TRUE,,TRUE
+AZ,1,1,4,FALSE,full_bar,quiet,casual,2,FALSE,[],[],,TRUE,,FALSE,"['lunch', 'dinner']",TRUE,,TRUE
+WI,3,2,3,TRUE,beer_and_wine,quiet,casual,2,FALSE,[],['street'],,FALSE,,,"['dinner', 'brunch']",FALSE,,FALSE
+AZ,1,1,4.5,TRUE,none,,casual,1,FALSE,[],[],,TRUE,,TRUE,['breakfast'],TRUE,,TRUE
+AZ,1,1,3,TRUE,full_bar,quiet,casual,1,TRUE,[],[],,TRUE,,TRUE,[],TRUE,,TRUE
+AZ,1,1,4,TRUE,full_bar,quiet,casual,2,TRUE,[],[],,TRUE,,,['lunch'],TRUE,,TRUE
+QC,3,2,4.5,TRUE,full_bar,average,dressy,4,FALSE,[],['street'],,TRUE,,FALSE,[],TRUE,,TRUE
+QC,3,2,2.5,TRUE,full_bar,,casual,2,TRUE,[],"['street', 'validate']",,FALSE,,,"['lunch', 'dinner']",TRUE,,TRUE
+PA,2,2,4,FALSE,none,quiet,casual,2,FALSE,[],['street'],,TRUE,,,[],TRUE,,FALSE
+WI,3,2,3,TRUE,full_bar,average,casual,2,FALSE,[],['lot'],,FALSE,,,[],TRUE,,FALSE
+AZ,1,1,1.5,FALSE,none,average,casual,1,FALSE,[],['lot'],,TRUE,,TRUE,[],TRUE,,FALSE
+BW,4,5,3,TRUE,full_bar,,casual,2,FALSE,[],[],,TRUE,no,,[],TRUE,,TRUE
+AZ,1,1,2.5,FALSE,full_bar,loud,casual,2,FALSE,[],[],,TRUE,,FALSE,[],TRUE,,FALSE
+QC,3,2,3.5,TRUE,full_bar,average,dressy,3,,['casual'],['lot'],,FALSE,,,[],TRUE,,FALSE
+NC,1,2,2.5,TRUE,none,average,casual,1,FALSE,[],[],,,,,[],FALSE,,FALSE
+NV,1,1,2.5,FALSE,beer_and_wine,average,casual,2,FALSE,[],[],,FALSE,,TRUE,[],TRUE,,FALSE
+NC,1,2,3,TRUE,none,quiet,casual,1,FALSE,[],[],,FALSE,,,[],TRUE,,FALSE
+QC,3,2,2,TRUE,beer_and_wine,quiet,casual,2,FALSE,['casual'],[],,TRUE,,,['lunch'],TRUE,,FALSE
+PA,2,2,5,TRUE,none,quiet,casual,2,TRUE,[],[],,,,,[],TRUE,,FALSE
+AZ,1,1,2.5,TRUE,none,average,casual,1,FALSE,[],[],,TRUE,,TRUE,[],TRUE,,FALSE
+QC,3,2,4,TRUE,full_bar,average,dressy,4,FALSE,[],[],,FALSE,,,[],TRUE,,TRUE
+PA,2,2,3.5,TRUE,none,quiet,casual,1,TRUE,[],[],,TRUE,,,[],FALSE,,FALSE
+NV,1,1,3,TRUE,full_bar,average,casual,2,FALSE,[],[],,TRUE,,,[],TRUE,,TRUE
+QC,3,2,4.5,TRUE,none,quiet,casual,3,FALSE,[],['street'],,TRUE,,FALSE,[],TRUE,,TRUE
+QC,3,2,5,TRUE,full_bar,quiet,dressy,3,FALSE,[],[],,FALSE,,FALSE,[],TRUE,,TRUE
+QC,3,2,4,TRUE,none,average,casual,1,TRUE,[],['street'],,TRUE,,,[],FALSE,,TRUE
+QC,3,2,2.5,TRUE,full_bar,,,2,TRUE,[],['street'],,TRUE,,FALSE,[],TRUE,,TRUE
+EDH,5,5,4,TRUE,beer_and_wine,quiet,casual,2,FALSE,[],[],,TRUE,,,['dinner'],TRUE,,FALSE
+EDH,5,5,5,TRUE,full_bar,average,dressy,3,FALSE,[],[],,TRUE,,FALSE,[],TRUE,,FALSE
+EDH,5,5,4,TRUE,beer_and_wine,quiet,casual,2,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+NC,1,2,3,TRUE,none,average,casual,1,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+WI,3,2,3.5,FALSE,full_bar,,casual,1,TRUE,[],['lot'],,FALSE,,,"['lunch', 'dinner']",TRUE,,FALSE
+NC,1,2,3.5,TRUE,none,average,casual,1,TRUE,[],[],,FALSE,,,[],FALSE,,FALSE
+QC,3,2,2.5,TRUE,none,quiet,,1,FALSE,[],[],,FALSE,,FALSE,[],FALSE,,FALSE
+AZ,1,1,2.5,FALSE,none,average,casual,1,FALSE,[],['lot'],,TRUE,,,[],TRUE,,FALSE
+BW,4,5,4,TRUE,full_bar,,casual,2,,[],,['vegan'],TRUE,outdoor,,[],TRUE,,TRUE
+AZ,1,1,4,FALSE,none,quiet,casual,2,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+AZ,1,1,5,TRUE,none,average,casual,1,FALSE,[],[],,FALSE,,,[],TRUE,,TRUE
+PA,2,2,4.5,TRUE,none,quiet,casual,2,FALSE,[],['street'],,TRUE,,TRUE,[],TRUE,,TRUE
+PA,2,2,3.5,TRUE,full_bar,average,dressy,2,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+NC,1,2,3.5,TRUE,none,quiet,casual,1,FALSE,[],[],,TRUE,,,[],TRUE,,FALSE
+AZ,1,1,3.5,FALSE,full_bar,quiet,casual,1,TRUE,[],['lot'],,TRUE,,,"['lunch', 'dinner']",TRUE,,FALSE
+PA,2,2,4.5,TRUE,full_bar,,casual,2,FALSE,[],[],,FALSE,,TRUE,['dinner'],TRUE,,FALSE
+NC,1,2,2.5,TRUE,none,,casual,2,FALSE,[],[],,TRUE,,,['lunch'],FALSE,,FALSE
+AZ,1,1,2.5,TRUE,none,average,casual,1,FALSE,[],[],,TRUE,,,[],TRUE,,TRUE
